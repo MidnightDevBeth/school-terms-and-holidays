@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# School Terms & Holidays
 
-You can use the [editor on GitHub](https://github.com/MidnightDevBeth/school-terms-and-holidays/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+School Terms & Holidays aims to provide iCal files you can download that will supply you with all the dates you need for your relevant school period each year.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Latest Files
 
-```markdown
-Syntax highlighted code block
+* [2021 School Terms](https://github.com/MidnightDevBeth/school-terms-and-holidays/blob/main/iCal%20Files/2021/School_Terms.ics)
 
-# Header 1
-## Header 2
-### Header 3
+* [2021 School Holidays](https://github.com/MidnightDevBeth/school-terms-and-holidays/blob/main/iCal%20Files/2021/School_Holidays.ics)
 
-- Bulleted
-- List
+#### 
+NOTE: NSW Schools ONLY Currently
 
-1. Numbered
-2. List
+------
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MidnightDevBeth/school-terms-and-holidays/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you find a mistake with this project or you wish to request a file for yourself, please head on over to the issues section and fill out an new issue.
+
+- [Request](https://github.com/MidnightDevBeth/school-terms-and-holidays/issues)
+- [Issue](https://github.com/MidnightDevBeth/school-terms-and-holidays/issues)
+- [Feedback](https://github.com/MidnightDevBeth/school-terms-and-holidays/issues)
